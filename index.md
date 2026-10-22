@@ -1,13 +1,13 @@
-# Gomoku Gravity privacy policy
+# Hall of Boards privacy policy
 
-_Last updated: 21 October 2026_
+_Last updated: 23 October 2026_
 
-Gomoku Gravity is a board game made by Agus Kresna ("we"). Contact:
+Hall of Boards is a collection of board games made by Agus Kresna ("we"). Contact:
 [agus.kresna.incorporated@gmail.com](mailto:agus.kresna.incorporated@gmail.com).
 
 ## The short version
 
-- Gomoku Gravity **collects no personal data**. There are no accounts, no
+- Hall of Boards **collects no personal data**. There are no accounts, no
   analytics, no ads, no crash reporting and no tracking.
 - The app **does not use the internet**. It asks for no permissions.
 - Everything it saves stays on your device.
